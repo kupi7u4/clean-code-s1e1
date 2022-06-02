@@ -144,6 +144,6 @@ ul#completed-tasks label {
   width: 224px;
 }
 
-.edit-mode__label {
+.edit-mode label {
   display: none;
 }
