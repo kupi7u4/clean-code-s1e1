@@ -39,10 +39,12 @@ body {
   margin: 0;
   padding: 0px;
 }
-.list__item, .app-todo__title {
+.list__item, 
+.app-todo__title {
   list-style: none;
 }
-input, .btn{
+input, 
+.btn{
   outline: none;
 }
 .btn{
@@ -98,7 +100,6 @@ input, .btn{
   overflow: hidden;
   padding: 20px 0;
   border-bottom: 1px solid #eee;
-
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -106,7 +107,6 @@ input, .btn{
 .list__item > * {
   vertical-align: middle;
 }
-
 .list__item > .checkbox-input {
   margin: 0 10px;
 }
