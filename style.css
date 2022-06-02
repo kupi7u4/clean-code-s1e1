@@ -32,8 +32,9 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.add-item__wrapper {
   display: flex;
+  margin-top: 30px;
 }
 .list {
   margin: 0;
