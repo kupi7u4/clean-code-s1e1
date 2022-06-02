@@ -18,7 +18,8 @@ body {
 }
 
 @media (max-width:768px) {
-.header {  text-align: center;
+.header {  
+  text-align: center;
 }
 }
 .app-todo {
@@ -35,14 +36,14 @@ body {
   display: flex;
 }
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 .list__item, .app-todo__title {
-  list-style:none;
+  list-style: none;
 }
 input, .btn{
-  outline:none;
+  outline: none;
 }
 .btn{
   background: none;
